@@ -4,6 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context=".HomeActivity">
 
 </RelativeLayout >
+=======
+    android:background="@color/main_purple"> 
+
+
+</RelativeLayout>
+
+
+>>>>>>> 13dd7e10b999df9a2c2d4621582b3dd96f7684ef
